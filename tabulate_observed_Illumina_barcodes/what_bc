@@ -1,0 +1,23 @@
+#!/usr/bin/perl
+
+use strict;
+
+my %bcs = undef;
+
+while (<>)
+{
+   if (/:([ACGTN\+]{6,21})/)
+   # if (/:([ACGT]{14})/)
+   # if (/:([ACGTN]{7})/)
+   # if (/#([ACGTN]{6})/)
+   {
+      $bcs{$1} += 1;
+      # print "$1\n";
+   }
+}
+
+foreach my $bc (sort {$bcs{$b} <=> $bcs{$a}} keys %bcs)
+{
+   print "$bc\t$bcs{$bc}\n";
+}
+
