@@ -1,4 +1,15 @@
 #!/usr/bin/perl
+#
+# This script tabulates observed barcode sequences in an Illumina fastq file.  
+# 
+# It can be used to determine if there are sample sheet issues, which will cause
+# reads with legitimate index sequences (that aren't accurately recorded in the sample sheet)
+# to appear in the Undetermine file produced by bcl2fastq
+# 
+# It expects index sequences to appear in the fastq file in a standard Illumina format, like this:
+# @NS500697:346:HJFWTAFX5:1:11101:6998:1049 1:N:0:AGTGGATC+NNGATGAC
+# 
+# Mark Stenglein 5/18/2023
 
 use strict;
 
@@ -7,12 +18,8 @@ my %bcs = undef;
 while (<>)
 {
    if (/:([ACGTN\+]{6,21})/)
-   # if (/:([ACGT]{14})/)
-   # if (/:([ACGTN]{7})/)
-   # if (/#([ACGTN]{6})/)
    {
       $bcs{$1} += 1;
-      # print "$1\n";
    }
 }
 
