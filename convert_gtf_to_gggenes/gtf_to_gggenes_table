@@ -1,0 +1,89 @@
+#!/usr/bin/env perl
+
+use strict;
+use Getopt::Long;
+
+my $print_usage = 0;
+
+my $usage = <<USAGE;
+
+  This script parses a GTF file and outputs a gggenes style 6-column
+  tab-delimited table that can be imported into R and used by gggenes.
+
+  Reads GTF from stdin and writes to stdout.
+
+  For more information on the GTF format (== GFF version 2), see:
+  https://useast.ensembl.org/info/website/upload/gff.html
+
+  For more information on the gggenes R package, see:
+  https://wilkox.org/gggenes/index.html
+
+  Mark Stenglein,  8/12/2024
+
+  Usage: $0 [-h] GTF_File
+
+   [-h]          print this message
+
+USAGE
+
+if ((scalar @ARGV == 0) and -t STDIN) { print $usage and exit; }
+
+GetOptions ("h" => \$print_usage);
+
+
+# output a header line matching gggenes expected column names
+print "molecule\tgene\tstart\tend\tstrand\torientation\n";
+
+
+# parse through GTF stdin 
+while (<>)
+{
+ # example GTF row
+ # X       FlyBase gene    19961297        19969323        .       +       .       gene_id "FBgn0031081"; gene_symbol "Nep3";
+ chomp;
+
+ my @fields = split "\t";
+
+ my $chr  = $fields[0];
+ my $type = $fields[2];
+
+ # only output gene types
+ if ($type eq "gene") {
+
+   my $start  = $fields[3];
+   my $end    = $fields[4];
+   my $strand = $fields[6];
+
+   # rest is a semicolon-separated list of attributes
+   my $rest   = $fields[8];
+
+   # pull out gene ID from last field
+   # example: gene_id "FBgn0040372"; gene_symbol "G9a";
+
+   if ($rest =~ m/gene_id "(\S+)"; gene_symbol "(\S+)";/) {
+
+     # make a gene name from gene_id and gene_symbol
+     my $gene_name = $1 . "_" . $2. "";
+
+     # print out a row
+     print "$chr\t$gene_name\t$start\t$end\t";
+
+     # print out strand/orientation info
+     if ($strand eq "+") {
+        print "forward\t1\n";
+     } else {
+        print "reverse\t0\n";
+     }
+
+     #    gggenes example_genes
+     # molecule  gene  start  end   strand   orientation
+     # Genome1   genA  15389  17299 reverse  1
+   } else {
+     warn "failed to parse gene_id and gene_symbol out of filed: $rest\n";
+   }
+ }
+}
+
+
+
+
