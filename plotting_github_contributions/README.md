@@ -120,6 +120,6 @@ ggsave("cumulative_github_contributions.png", units="in", width=10, height=7.5)
 
 This produces this plot:
 
-![Plot of my cumulative github contributions over 10 years]("./cumulative_github_contributions.png")
+![Plot of my cumulative github contributions over 10 years](./cumulative_github_contributions.png)
 
 I've made nearly 1000 github contributions over the last 10 years, which I feel pretty good about.
