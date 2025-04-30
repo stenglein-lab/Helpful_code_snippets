@@ -26,8 +26,7 @@ query($userName:String!) {
       to:  "2023-12-31T23:59:59.000Z") {
       contributionCalendar {
         totalContributions
-        weeks {
-          contributionDays {
+        weeks { contributionDays {
             contributionCount
             date
           }
@@ -40,7 +39,9 @@ query($userName:String!) {
 
 You will also need to enter in the Variables section of the interface something like:
 
+```
 { "userName": "stenglein-lab"}
+```
 
 Replacing stenglein-lab with your github username.
 
@@ -110,7 +111,7 @@ ggplot (filter(all_year_data, date < today())) +
              shape=21, size=3, fill="coral2", color="black", stroke=0.05) +
   theme_classic(base_size = 14) +
   xlab("") +
-  ylab("Cumulative contributions\nto github repositories") +
+  ylab("Cumulative contributions to github repositories") +
   ggtitle("Cumulative contributions to github repositories since arrival at CSU")
 
 # save as a PDF
@@ -122,4 +123,4 @@ This produces this plot:
 
 ![Plot of my cumulative github contributions over 10 years](./cumulative_github_contributions.png)
 
-I've made nearly 1000 github contributions over the last 10 years, which I feel pretty good about.
+I've made nearly 1000 github contributions over the last 10 years, which I feel pretty good about since this captures just one aspect of my job.  There have been several bursts of activity: individual days with many contributions but overall the rate has been pretty consistent. 
