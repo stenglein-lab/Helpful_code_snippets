@@ -6,14 +6,14 @@ The extent to which this works for individual sequences depends on the availabil
 
 The new name will consist of:
 
-[optional_prefix]_[country_if_present]_[host_if_present]_[year_if_present]_accession
+`[optional_prefix]_[country_if_present]_[host_if_present]_[year_if_present]_accession`
 
 Metadata is parsed from:
 - year: from the collection_data field 
 - country: from the country field (preferred) or the geo_loc_name field
 - host: from the host field 
 
-These metadata fields are part of the source feature in genbank records.  
+These metadata fields are part of the [source feature](https://www.ncbi.nlm.nih.gov/genbank/samplerecord/#FeaturesSourceB) in [genbank records](https://www.ncbi.nlm.nih.gov/genbank/samplerecord/).  
 
 This script depends on Biopython packages, which can be made available [via a conda environment](https://anaconda.org/channels/conda-forge/packages/biopython/overview).
 
