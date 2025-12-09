@@ -26,5 +26,6 @@ conda create -n biopython conda-forge::biopython
 
 Rename some sequences:
 ```
+conda activate biopython
 ./rename_genbank_sequences_using_metadata.py -y -c -o my_sequences.gb > my_sequences.renamed.gb
 ```
