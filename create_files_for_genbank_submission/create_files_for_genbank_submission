@@ -8,11 +8,11 @@
 # There are a number of input files to this:
 #
 # *) fasta sequences output from geneious.  
-#    This will be fed into tbl2asn. Instead, will be modified using create_gb_fsa
-#    to create appropriate deflines.
+#    This will not be fed into tbl2asn. 
+#    Instead, will be input to create_gb_fsa to create a fasta with appropriate deflines.
 #
 # *) sequence annotations in .gff format, output from geneious.  
-#    Will be turned into feature table using gff_to_feature_table
+#    Will be turned into a feature table using gff_to_feature_table
 # 
 # *) .sbt file.  Submission template file from genbank.
 #    from: https://submit.ncbi.nlm.nih.gov/genbank/template/submission/
