@@ -1,0 +1,144 @@
+##gff-version 3
+##source-version geneious 2025.1.2
+##sequence-region	Aphid_lethal_paralysis_virus_NC_2000	1	9534
+Aphid_lethal_paralysis_virus_NC_2000	Geneious	CDS	439	6552	.	+	0	Name=nonstructural polyprotein CDS
+Aphid_lethal_paralysis_virus_NC_2000	Geneious	CDS	6749	9154	.	+	.	Name=capsid protein precursor CDS
+##sequence-region	Aphid_lethal_paralysis_virus_PA-1963-r1	1	9772
+Aphid_lethal_paralysis_virus_PA-1963-r1	Geneious	CDS	523	6636	.	+	.	Name=nonstructural polyprotein
+Aphid_lethal_paralysis_virus_PA-1963-r1	Geneious	CDS	6833	9238	.	+	.	Name=capsid protein precursor
+##sequence-region	Ips_partiti-like-virus_NY_1901_RNA_1	1	1721
+Ips_partiti-like-virus_NY_1901_RNA_1	Geneious	CDS	21	1697	.	+	.	Name=RNA dependent RNA polymerase
+##sequence-region	Ips_partiti-like-virus_NY_1901_RNA_2	1	1636
+Ips_partiti-like-virus_NY_1901_RNA_2	Geneious	CDS	127	1599	.	+	.	Name=hypothetical protein
+##sequence-region	Ips-partiti-like-virus_NY_1901_RNA_3	1	1562
+Ips-partiti-like-virus_NY_1901_RNA_3	Geneious	CDS	109	1539	.	+	.	Name=hypothetical protein
+##sequence-region	Lebia-associated%20narna-like-virus_PA-1963-r3	1	2529
+Lebia-associated_narna-like-virus_PA-1963-r3	Geneious	CDS	221	2419	.	+	.	Name=RNA-dependent RNA polymerase
+##sequence-region	Lucilia-associated_narna-like-virus_partial_NC_2000	1	2763
+Lucilia-associated_narna-like-virus_partial	Geneious	CDS	376	2763	.	+	.	Name=RNA-dependent RNA polymerase%2C partial
+##sequence-region	Neemia_permutotetra-like_virus_IN_1978	1	5488
+Neemia_permutotetra-like_virus_IN_1978	Geneious	CDS	89	3784	.	+	.	Name=RNA-dependent RNA polymerase
+Neemia_permutotetra-like_virus_IN_1978	Geneious	CDS	3898	5352	.	+	.	Name=putative capsid protein
+##sequence-region	Plagiodera_iflavirus_PA_1941_r1	1	9642
+Plagiodera_iflavirus_PA_1941_r1	Geneious	CDS	121	9087	.	+	.	Name=polyprotein
+##sequence-region	Potato_virus_S_PA_1939_r3	1	8449
+Potato_virus_S_PA_1939_r3	Geneious	CDS	61	5988	.	+	0	Name=RdRp CDS
+Potato_virus_S_PA_1939_r3	Geneious	CDS	5975	6706	.	+	0	Name=25K CDS
+Potato_virus_S_PA_1939_r3	Geneious	CDS	6684	7010	.	+	0	Name=12K CDS
+Potato_virus_S_PA_1939_r3	Geneious	CDS	6967	8100	.	+	0	Name=CP CDS
+Potato_virus_S_PA_1939_r3	Geneious	CDS	6974	7174	.	+	0	Name=7K CDS
+Potato_virus_S_PA_1939_r3	Geneious	CDS	7216	8100	.	+	0	Name=CP CDS
+Potato_virus_S_PA_1939_r3	Geneious	CDS	8097	8381	.	+	0	Name=11K CDS
+##sequence-region	Potato_X_virus_PA_1939_r3	1	6425
+Potato_X_virus_PA_1939_r3	Geneious	CDS	80	4450	.	+	0	Name=KR CDS
+Potato_X_virus_PA_1939_r3	Geneious	CDS	4481	5161	.	+	0	Name=25K protein CDS
+Potato_X_virus_PA_1939_r3	Geneious	CDS	5142	5489	.	+	0	Name=12K protein CDS
+Potato_X_virus_PA_1939_r3	Geneious	CDS	5422	5634	.	+	0	Name=8K protein CDS
+Potato_X_virus_PA_1939_r3	Geneious	CDS	5645	6358	.	+	0	Name=coat protein CDS
+##sequence-region	Tobacco_mosaic_virus_IL_1939	1	6014
+Tobacco_mosaic_virus_IL_1939	Geneious	CDS	1	4795	.	+	1	Name=Replicase partial CDS
+Tobacco_mosaic_virus_IL_1939	Geneious	CDS	1	3295	.	+	1	Name=Replicase partial CDS
+Tobacco_mosaic_virus_IL_1939	Geneious	CDS	3371	4795	.	+	0	Name=RNA polymerase CDS
+Tobacco_mosaic_virus_IL_1939	Geneious	CDS	4779	5585	.	+	0	Name=Movement protein CDS
+Tobacco_mosaic_virus_IL_1939	Geneious	CDS	5542	5664	.	+	0	Name=Charged protein CDS
+Tobacco_mosaic_virus_IL_1939	Geneious	CDS	5588	6014	.	+	0	Name=Coat protein partial CDS
+##sequence-region	Tobacco_mosaic_virus_MA_1899	1	6199
+Tobacco_mosaic_virus_MA_1899	Geneious	CDS	1	4806	.	+	0	Name=Replicase partial CDS
+Tobacco_mosaic_virus_MA_1899	Geneious	CDS	1	3306	.	+	0	Name=Replicase partial CDS
+Tobacco_mosaic_virus_MA_1899	Geneious	CDS	3382	4806	.	+	0	Name=RNA polymerase CDS
+Tobacco_mosaic_virus_MA_1899	Geneious	CDS	4790	5596	.	+	0	Name=Movement protein CDS
+Tobacco_mosaic_virus_MA_1899	Geneious	CDS	5553	5675	.	+	0	Name=Charged protein CDS
+Tobacco_mosaic_virus_MA_1899	Geneious	CDS	5599	6078	.	+	0	Name=Coat protein CDS
+##sequence-region	Tobacco_mosaic_virus_NY_1923	1	6357
+Tobacco_mosaic_virus_NY_1923	Geneious	CDS	51	4901	.	+	0	Name=Replicase CDS
+Tobacco_mosaic_virus_NY_1923	Geneious	CDS	51	3401	.	+	0	Name=Replicase CDS
+Tobacco_mosaic_virus_NY_1923	Geneious	CDS	3477	4901	.	+	0	Name=RNA polymerase CDS
+Tobacco_mosaic_virus_NY_1923	Geneious	CDS	4885	5691	.	+	0	Name=Movement protein CDS
+Tobacco_mosaic_virus_NY_1923	Geneious	CDS	5648	5770	.	+	0	Name=Charged protein CDS
+Tobacco_mosaic_virus_NY_1923	Geneious	CDS	5694	6173	.	+	0	Name=Coat protein CDS
+##sequence-region	Torymid_wasp_reovirus_NY_1923_segment_1	1	4188
+Torymid_wasp_reovirus_NY_1923_segment_1	Geneious	CDS	18	4154	.	+	.	Name=RNA-dependent RNA polymerase
+##sequence-region	Torymid_wasp_reovirus_NY_1923_segment_2	1	4149
+Torymid_wasp_reovirus_NY_1923_segment_2	Geneious	CDS	4	4083	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_NY_1923_segment_3	1	3671
+Torymid_wasp_reovirus_NY_1923_segment_3	Geneious	CDS	23	3586	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_NY_1923_segment_4	1	3452
+Torymid_wasp_reovirus_NY_1923_segment_4	Geneious	CDS	11	3364	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_NY_1923_segment_5	1	2069
+Torymid_wasp_reovirus_NY_1923_segment_5	Geneious	CDS	20	1912	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_NY_1923_segment_6	1	1906
+Torymid_wasp_reovirus_NY_1923_segment_6	Geneious	CDS	7	1812	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_NY_1923_segment_7	1	1863
+Torymid_wasp_reovirus_NY_1923_segment_7	Geneious	CDS	5	1759	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_NY_1923_segment_8	1	1709
+Torymid_wasp_reovirus_NY_1923_segment_8	Geneious	CDS	143	1618	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_NY_1923_segment_9	1	1647
+Torymid_wasp_reovirus_NY_1923_segment_9	Geneious	CDS	11	1546	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_NY_1923_segment_10	1	1662
+Torymid_wasp_reovirus_NY_1923_segment_10	Geneious	CDS	182	1594	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r2_segment_1	1	4188
+Torymid_wasp_reovirus_PA_1968_r2_segment_1	Geneious	CDS	18	4154	.	+	.	Name=RNA-dependent RNA polymerase
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r2_segment_2	1	4149
+Torymid_wasp_reovirus_PA_1968_r2_segment_2	Geneious	CDS	4	4083	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r2_segment_3	1	3669
+Torymid_wasp_reovirus_PA_1968_r2_segment_3	Geneious	CDS	21	3584	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r2_segment_4	1	3452
+Torymid_wasp_reovirus_PA_1968_r2_segment_4	Geneious	CDS	11	3364	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r2_segment_5	1	2069
+Torymid_wasp_reovirus_PA_1968_r2_segment_5	Geneious	CDS	20	1912	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r2_segment_6	1	1906
+Torymid_wasp_reovirus_PA_1968_r2_segment_6	Geneious	CDS	7	1812	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r2_segment_7	1	1863
+Torymid_wasp_reovirus_PA_1968_r2_segment_7	Geneious	CDS	5	1759	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r2_segment_8	1	1709
+Torymid_wasp_reovirus_PA_1968_r2_segment_8	Geneious	CDS	143	1618	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r2_segment_9	1	1645
+Torymid_wasp_reovirus_PA_1968_r2_segment_9	Geneious	CDS	11	1546	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r2_segment_10	1	1656
+Torymid_wasp_reovirus_PA_1968_r2_segment_10	Geneious	CDS	176	1588	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r3_segment_1	1	4188
+Torymid_wasp_reovirus_PA_1968_r3_segment_1	Geneious	CDS	18	4154	.	+	.	Name=RNA-dependent RNA polymerase
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r3_segment_2	1	4149
+Torymid_wasp_reovirus_PA_1968_r3_segment_2	Geneious	CDS	4	4083	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r3_segment_3	1	3661
+Torymid_wasp_reovirus_PA_1968_r3_segment_3	Geneious	CDS	21	3584	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r3_segment_4	1	3449
+Torymid_wasp_reovirus_PA_1968_r3_segment_4	Geneious	CDS	8	3361	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r3_segment_5	1	2075
+Torymid_wasp_reovirus_PA_1968_r3_segment_5	Geneious	CDS	26	1918	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r3_segment_6	1	1904
+Torymid_wasp_reovirus_PA_1968_r3_segment_6	Geneious	CDS	7	1812	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r3_segment_7	1	1860
+Torymid_wasp_reovirus_PA_1968_r3_segment_7	Geneious	CDS	2	1756	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r3_segment_8	1	1709
+Torymid_wasp_reovirus_PA_1968_r3_segment_8	Geneious	CDS	143	1618	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r3_segment_9	1	1645
+Torymid_wasp_reovirus_PA_1968_r3_segment_9	Geneious	CDS	11	1546	.	+	.	Name=hypothetical protein
+##sequence-region	Torymid_wasp_reovirus_PA_1968_r3_segment_10	1	1655
+Torymid_wasp_reovirus_PA_1968_r3_segment_10	Geneious	CDS	176	1588	.	+	.	Name=hypothetical protein
+##sequence-region	Tribolium_castaneum_iflavirus_NC_1954_r2	1	10120
+Tribolium_castaneum_iflavirus_NC_1954_r2	Geneious	CDS	776	9928	.	+	0	Name=polyprotein CDS
+Tribolium_castaneum_iflavirus_NC_1954_r2	Geneious	mat_peptide	776	1738	.	+	.	Name=leader protein peptide
+Tribolium_castaneum_iflavirus_NC_1954_r2	Geneious	mat_peptide	1739	2485	.	+	.	Name=VP2 peptide
+Tribolium_castaneum_iflavirus_NC_1954_r2	Geneious	mat_peptide	2486	2548	.	+	.	Name=VP4 peptide
+Tribolium_castaneum_iflavirus_NC_1954_r2	Geneious	mat_peptide	2549	3796	.	+	.	Name=VP3 peptide
+Tribolium_castaneum_iflavirus_NC_1954_r2	Geneious	mat_peptide	3797	4978	.	+	.	Name=VP1 peptide
+Tribolium_castaneum_iflavirus_NC_1954_r2	Geneious	mat_peptide	5516	5839	.	+	.	Name=RNA helicase peptide
+Tribolium_castaneum_iflavirus_NC_1954_r2	Geneious	mat_peptide	7925	8200	.	+	.	Name=3C-Protease peptide
+Tribolium_castaneum_iflavirus_NC_1954_r2	Geneious	mat_peptide	8375	9814	.	+	.	Name=RdRp peptide
+##sequence-region	Tribolium_castaneum_iflavirus_NC_1955	1	10119
+Tribolium_castaneum_iflavirus_NC_1955	Geneious	CDS	775	9927	.	+	0	Name=polyprotein CDS
+Tribolium_castaneum_iflavirus_NC_1955	Geneious	mat_peptide	775	1737	.	+	.	Name=leader protein peptide
+Tribolium_castaneum_iflavirus_NC_1955	Geneious	mat_peptide	1738	2484	.	+	.	Name=VP2 peptide
+Tribolium_castaneum_iflavirus_NC_1955	Geneious	mat_peptide	2485	2547	.	+	.	Name=VP4 peptide
+Tribolium_castaneum_iflavirus_NC_1955	Geneious	mat_peptide	2548	3795	.	+	.	Name=VP3 peptide
+Tribolium_castaneum_iflavirus_NC_1955	Geneious	mat_peptide	3796	4977	.	+	.	Name=VP1 peptide
+Tribolium_castaneum_iflavirus_NC_1955	Geneious	mat_peptide	5515	5838	.	+	.	Name=RNA helicase peptide
+Tribolium_castaneum_iflavirus_NC_1955	Geneious	mat_peptide	7924	8199	.	+	.	Name=3C-Protease peptide
+Tribolium_castaneum_iflavirus_NC_1955	Geneious	mat_peptide	8374	9813	.	+	.	Name=RdRp peptide
+##sequence-region	Tribolium_chaq-like-virus_NC_1954_r2	1	1501
+Tribolium_chaq-like-virus_NC_1954_r2	Geneious	CDS	209	1036	.	+	.	Name=hypothetical_protein
+##sequence-region	Tribolium_partiti-like-virus_RNA_1_partial_NC_1954_r2	1	1438
+Tribolium_partiti-like-virus_RNA_1_partial	Geneious	CDS	2	1408	.	+	.	Name=RNA-dependent RNA polymerase_partial
+##sequence-region	Tribolium_partiti-like-virus_RNA_2_NC_1954_r2	1	1616
+Tribolium_partiti-like-virus_RNA_2	Geneious	CDS	35	1534	.	+	.	Name=putative_capsid

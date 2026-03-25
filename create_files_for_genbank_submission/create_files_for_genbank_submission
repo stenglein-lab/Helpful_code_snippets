@@ -1,0 +1,60 @@
+#!/bin/bash
+
+# script to create files in appropriate format for batch genbank submission
+# 
+# This uses the table2asn utility from Genbank, described in more detail here:
+# https://www.ncbi.nlm.nih.gov/genbank/table2asn/
+#
+# There are a number of input files to this:
+#
+# *) fasta sequences output from geneious.  
+#    This will be fed into tbl2asn. Instead, will be modified using create_gb_fsa
+#    to create appropriate deflines.
+#
+# *) sequence annotations in .gff format, output from geneious.  
+#    Will be turned into feature table using gff_to_feature_table
+# 
+# *) .sbt file.  Submission template file from genbank.
+#    from: https://submit.ncbi.nlm.nih.gov/genbank/template/submission/
+#
+# *) sequences in .fasta format with modified deflines 
+#    output of create_gb_fsa below
+#    See: https://www.ncbi.nlm.nih.gov/genbank/table2asn/#fsa
+#
+# *) feature table file with annotations 
+#    For these virus sequences, annotations will be mainly/only coding sequences 
+#    output of gff_to_feature_table below
+#    See: https://www.ncbi.nlm.nih.gov/genbank/feature_table/
+#
+# *) source modifier table: sequence metadata: .src file
+#    See: https://www.ncbi.nlm.nih.gov/WebSub/html/help/genbank-source-table.html
+#    I create this table in Excel and then export as tab-delimited text
+#    example simple smt: https://www.ncbi.nlm.nih.gov/WebSub/html/help/sample_files/source-table-sample.txt
+#
+#
+# submission of additional OC virus sequences from non-Drosophila museum samples
+# 
+# Mark Stenglein 11/21/2025
+#
+# step 1: collect sequences in geneious and make sure they are properly annotated
+#
+# step 2: prepare .sbt file (from Genbank) 
+#
+# step 3: prepare .src file in Excel and export as tab-delimited text file
+#
+# step 4: export seqs in fasta format and annotations in gff format from Geneious
+#
+# step 5: run create_gb_fsa to make fasta file w/ appropriate deflines
+# .src table is source modifier table
+./create_gb_fsa additional_oc_sequences_for_submission.src sequences.fasta  > additional_oc_sequences_for_submission.fsa
+
+# step 6: run  gff_to_feature_table to make feature table using exported annotation from Geneious
+./gff_to_feature_table sequences.gff  > additional_oc_sequences_for_submission.tbl
+
+# step 7: run tbl2asn to create .sqn file
+# pay attention to and fix any errors
+# .sbt file is from Genbank
+./mac.table2asn -indir . -a s -V v -t template.sbt
+
+# step 8: email .sqn file to gb-sub@ncbi.nlm.nih.gov
+# can also upload via NCBI submission portal, I believe

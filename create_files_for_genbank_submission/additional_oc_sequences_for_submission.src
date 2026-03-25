@@ -1,0 +1,50 @@
+Sequence_ID	Organism	Collection_date	geo_loc_name	Host	Isolate	Note	Segment
+Aphid_lethal_paralysis_virus_NC_2000	Aphid lethal paralysis virus	2000	"USA:Macklenburg Co, NC"	Lucilia coeruleiviridis	NC_2000		
+Aphid_lethal_paralysis_virus_PA-1963-r1	Aphid lethal paralysis virus	1963	"USA:West Co, PA"	Lebia fuscata	PA_1963_r1		
+Ips_partiti-like-virus_NY_1901_RNA_1	Ips partiti-like virus	1901	"USA:Bath, NY"	Ips calligraphus	NY_1901		RNA 1
+Ips_partiti-like-virus_NY_1901_RNA_2	Ips partiti-like virus	1901	"USA:Bath, NY"	Ips calligraphus	NY_1901		RNA 2
+Ips-partiti-like-virus_NY_1901_RNA_3	Ips partiti-like virus	1901	"USA:Bath, NY"	Ips calligraphus	NY_1901		RNA 3
+Lebia-associated_narna-like-virus_PA-1963-r3	Lebia-associated narna-like virus	1963	"USA:West Co, PA"	Lebia fuscata	PA_1963_r3		
+Lucilia-associated_narna-like-virus_partial	Lucilia-associated narna-like virus	2000	"USA:Macklenburg Co, NC"	Lucilia coeruleiviridis	NC_2000		
+Neemia_permutotetra-like_virus_IN_1978	Neemia permutotetra-like virus	1978	"USA:Carthage, IN"	Neomida bicornis	IN_1978		
+Plagiodera_iflavirus_PA_1941_r1	Plagiodera iflavirus	1941	"USA:The Rock, PA"	Plagiodera versicolora	PA_1941_r1		
+Potato_virus_S_PA_1939_r3	Potato virus S	1939	"USA:Lancaster, PA"	Epitrix cucumeris	PA_1939_r3		
+Potato_X_virus_PA_1939_r3	Potato X virus	1939	"USA:Lancaster, PA"	Epitrix cucumeris	PA_1939_r3		
+Tobacco_mosaic_virus_IL_1939	Tobacco mosaic virus	1939	USA:IL	Neomida bicornis	IL_1939	This sequence appears to derive from contamination of a museum specimen	
+Tobacco_mosaic_virus_MA_1899	Tobacco mosaic virus	1899	"USA:Berlin, MA"	Braconidae sp.	MA_1899	This sequence appears to derive from contamination of a museum specimen	
+Tobacco_mosaic_virus_NY_1923	Tobacco mosaic virus	1923	"USA:Farmingdale, NY"	Torymidae sp.	NY_1923	This sequence appears to derive from contamination of a museum specimen	
+Torymid_wasp_reovirus_NY_1923_segment_1	Torymid wasp reovirus	1923	"USA:Farmingdale, NY"	Torymidae sp.	NY_1923		1
+Torymid_wasp_reovirus_NY_1923_segment_2	Torymid wasp reovirus	1923	"USA:Farmingdale, NY"	Torymidae sp.	NY_1923		2
+Torymid_wasp_reovirus_NY_1923_segment_3	Torymid wasp reovirus	1923	"USA:Farmingdale, NY"	Torymidae sp.	NY_1923		3
+Torymid_wasp_reovirus_NY_1923_segment_4	Torymid wasp reovirus	1923	"USA:Farmingdale, NY"	Torymidae sp.	NY_1923		4
+Torymid_wasp_reovirus_NY_1923_segment_5	Torymid wasp reovirus	1923	"USA:Farmingdale, NY"	Torymidae sp.	NY_1923		5
+Torymid_wasp_reovirus_NY_1923_segment_6	Torymid wasp reovirus	1923	"USA:Farmingdale, NY"	Torymidae sp.	NY_1923		6
+Torymid_wasp_reovirus_NY_1923_segment_7	Torymid wasp reovirus	1923	"USA:Farmingdale, NY"	Torymidae sp.	NY_1923		7
+Torymid_wasp_reovirus_NY_1923_segment_8	Torymid wasp reovirus	1923	"USA:Farmingdale, NY"	Torymidae sp.	NY_1923		8
+Torymid_wasp_reovirus_NY_1923_segment_9	Torymid wasp reovirus	1923	"USA:Farmingdale, NY"	Torymidae sp.	NY_1923		9
+Torymid_wasp_reovirus_NY_1923_segment_10	Torymid wasp reovirus	1923	"USA:Farmingdale, NY"	Torymidae sp.	NY_1923		10
+Torymid_wasp_reovirus_PA_1968_r2_segment_1	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r2		1
+Torymid_wasp_reovirus_PA_1968_r2_segment_2	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r2		2
+Torymid_wasp_reovirus_PA_1968_r2_segment_3	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r2		3
+Torymid_wasp_reovirus_PA_1968_r2_segment_4	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r2		4
+Torymid_wasp_reovirus_PA_1968_r2_segment_5	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r2		5
+Torymid_wasp_reovirus_PA_1968_r2_segment_6	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r2		6
+Torymid_wasp_reovirus_PA_1968_r2_segment_7	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r2		7
+Torymid_wasp_reovirus_PA_1968_r2_segment_8	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r2		8
+Torymid_wasp_reovirus_PA_1968_r2_segment_9	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r2		9
+Torymid_wasp_reovirus_PA_1968_r2_segment_10	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r2		10
+Torymid_wasp_reovirus_PA_1968_r3_segment_1	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r3		1
+Torymid_wasp_reovirus_PA_1968_r3_segment_2	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r3		2
+Torymid_wasp_reovirus_PA_1968_r3_segment_3	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r3		3
+Torymid_wasp_reovirus_PA_1968_r3_segment_4	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r3		4
+Torymid_wasp_reovirus_PA_1968_r3_segment_5	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r3		5
+Torymid_wasp_reovirus_PA_1968_r3_segment_6	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r3		6
+Torymid_wasp_reovirus_PA_1968_r3_segment_7	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r3		7
+Torymid_wasp_reovirus_PA_1968_r3_segment_8	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r3		8
+Torymid_wasp_reovirus_PA_1968_r3_segment_9	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r3		9
+Torymid_wasp_reovirus_PA_1968_r3_segment_10	Torymid wasp reovirus	1968	"USA:Chester Co, PA"	Torymidae sp.	PA_1968_r3		10
+Tribolium_castaneum_iflavirus_NC_1954_r2	Tribolium castaneum iflavirus	1954	"USA:Macklenburg Co, NC"	Tribolium castaneum	NC_1954_r2		
+Tribolium_castaneum_iflavirus_NC_1955	Tribolium castaneum iflavirus	1955	"USA:Macklenburg Co, NC"	Tribolium castaneum	NC_1955		
+Tribolium_chaq-like-virus_NC_1954_r2	Tribolium chaq-like virus	1954	"USA:Macklenburg Co, NC"	Tribolium castaneum	NC_1954_r2		
+Tribolium_partiti-like-virus_RNA_1_partial	Tribolium partiti-like virus	1954	"USA:Macklenburg Co, NC"	Tribolium castaneum	NC_1954_r2		RNA 1
+Tribolium_partiti-like-virus_RNA_2	Tribolium partiti-like virus	1954	"USA:Macklenburg Co, NC"	Tribolium castaneum	NC_1954_r2		RNA 2

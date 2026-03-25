@@ -1,0 +1,242 @@
+>Feature Aphid_lethal_paralysis_virus_NC_2000
+439	6552	CDS
+			product	nonstructural polyprotein
+6749	9154	CDS
+			product	capsid protein precursor
+>Feature Aphid_lethal_paralysis_virus_PA-1963-r1
+523	6636	CDS
+			product	nonstructural polyprotein
+6833	9238	CDS
+			product	capsid protein precursor
+>Feature Ips_partiti-like-virus_NY_1901_RNA_1
+21	1697	CDS
+			product	RNA dependent RNA polymerase
+>Feature Ips_partiti-like-virus_NY_1901_RNA_2
+127	1599	CDS
+			product	hypothetical protein
+>Feature Ips-partiti-like-virus_NY_1901_RNA_3
+109	1539	CDS
+			product	hypothetical protein
+>Feature Lebia-associated_narna-like-virus_PA-1963-r3
+221	2419	CDS
+			product	RNA-dependent RNA polymerase
+>Feature Lucilia-associated_narna-like-virus_partial
+376	2763	CDS
+			product	RNA-dependent RNA polymerase%2C partial
+			note	partial
+>Feature Neemia_permutotetra-like_virus_IN_1978
+89	3784	CDS
+			product	RNA-dependent RNA polymerase
+3898	5352	CDS
+			product	putative capsid protein
+>Feature Plagiodera_iflavirus_PA_1941_r1
+121	9087	CDS
+			product	polyprotein
+>Feature Potato_virus_S_PA_1939_r3
+61	5988	CDS
+			product	RdRp
+5975	6706	CDS
+			product	25K
+6684	7010	CDS
+			product	12K
+6967	8100	CDS
+			product	CP
+6974	7174	CDS
+			product	7K
+7216	8100	CDS
+			product	CP
+8097	8381	CDS
+			product	11K
+>Feature Potato_X_virus_PA_1939_r3
+80	4450	CDS
+			product	KR
+4481	5161	CDS
+			product	25K protein
+5142	5489	CDS
+			product	12K protein
+5422	5634	CDS
+			product	8K protein
+5645	6358	CDS
+			product	coat protein
+>Feature Tobacco_mosaic_virus_IL_1939
+<1	4795	CDS
+			product	Replicase partial
+			note	partial
+<1	3295	CDS
+			product	Replicase partial
+			note	partial
+3371	4795	CDS
+			product	RNA polymerase
+4779	5585	CDS
+			product	Movement protein
+5542	5664	CDS
+			product	Charged protein
+5588	6014	CDS
+			product	Coat protein partial
+			note	partial
+>Feature Tobacco_mosaic_virus_MA_1899
+<1	4806	CDS
+			product	Replicase partial
+			note	partial
+<1	3306	CDS
+			product	Replicase partial
+			note	partial
+3382	4806	CDS
+			product	RNA polymerase
+4790	5596	CDS
+			product	Movement protein
+5553	5675	CDS
+			product	Charged protein
+5599	6078	CDS
+			product	Coat protein
+>Feature Tobacco_mosaic_virus_NY_1923
+51	4901	CDS
+			product	Replicase
+51	3401	CDS
+			product	Replicase
+3477	4901	CDS
+			product	RNA polymerase
+4885	5691	CDS
+			product	Movement protein
+5648	5770	CDS
+			product	Charged protein
+5694	6173	CDS
+			product	Coat protein
+>Feature Torymid_wasp_reovirus_NY_1923_segment_1
+18	4154	CDS
+			product	RNA-dependent RNA polymerase
+>Feature Torymid_wasp_reovirus_NY_1923_segment_2
+4	4083	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_NY_1923_segment_3
+23	3586	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_NY_1923_segment_4
+11	3364	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_NY_1923_segment_5
+20	1912	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_NY_1923_segment_6
+7	1812	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_NY_1923_segment_7
+5	1759	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_NY_1923_segment_8
+143	1618	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_NY_1923_segment_9
+11	1546	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_NY_1923_segment_10
+182	1594	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_PA_1968_r2_segment_1
+18	4154	CDS
+			product	RNA-dependent RNA polymerase
+>Feature Torymid_wasp_reovirus_PA_1968_r2_segment_2
+4	4083	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_PA_1968_r2_segment_3
+21	3584	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_PA_1968_r2_segment_4
+11	3364	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_PA_1968_r2_segment_5
+20	1912	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_PA_1968_r2_segment_6
+7	1812	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_PA_1968_r2_segment_7
+5	1759	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_PA_1968_r2_segment_8
+143	1618	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_PA_1968_r2_segment_9
+11	1546	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_PA_1968_r2_segment_10
+176	1588	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_PA_1968_r3_segment_1
+18	4154	CDS
+			product	RNA-dependent RNA polymerase
+>Feature Torymid_wasp_reovirus_PA_1968_r3_segment_2
+4	4083	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_PA_1968_r3_segment_3
+21	3584	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_PA_1968_r3_segment_4
+8	3361	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_PA_1968_r3_segment_5
+26	1918	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_PA_1968_r3_segment_6
+7	1812	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_PA_1968_r3_segment_7
+2	1756	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_PA_1968_r3_segment_8
+143	1618	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_PA_1968_r3_segment_9
+11	1546	CDS
+			product	hypothetical protein
+>Feature Torymid_wasp_reovirus_PA_1968_r3_segment_10
+176	1588	CDS
+			product	hypothetical protein
+>Feature Tribolium_castaneum_iflavirus_NC_1954_r2
+776	9928	CDS
+			product	polyprotein
+776	1738	mat_peptide
+			product	leader protein peptide
+1739	2485	mat_peptide
+			product	VP2 peptide
+2486	2548	mat_peptide
+			product	VP4 peptide
+2549	3796	mat_peptide
+			product	VP3 peptide
+3797	4978	mat_peptide
+			product	VP1 peptide
+5516	5839	mat_peptide
+			product	RNA helicase peptide
+7925	8200	mat_peptide
+			product	3C-Protease peptide
+8375	9814	mat_peptide
+			product	RdRp peptide
+>Feature Tribolium_castaneum_iflavirus_NC_1955
+775	9927	CDS
+			product	polyprotein
+775	1737	mat_peptide
+			product	leader protein peptide
+1738	2484	mat_peptide
+			product	VP2 peptide
+2485	2547	mat_peptide
+			product	VP4 peptide
+2548	3795	mat_peptide
+			product	VP3 peptide
+3796	4977	mat_peptide
+			product	VP1 peptide
+5515	5838	mat_peptide
+			product	RNA helicase peptide
+7924	8199	mat_peptide
+			product	3C-Protease peptide
+8374	9813	mat_peptide
+			product	RdRp peptide
+>Feature Tribolium_chaq-like-virus_NC_1954_r2
+209	1036	CDS
+			product	hypothetical_protein
+>Feature Tribolium_partiti-like-virus_RNA_1_partial
+2	1408	CDS
+			product	RNA-dependent RNA polymerase_partial
+			note	partial
+>Feature Tribolium_partiti-like-virus_RNA_2
+35	1534	CDS
+			product	putative_capsid
